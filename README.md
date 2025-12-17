@@ -5,8 +5,8 @@
 ## 📖 论文清单
 | 状态 | 论文名称 | 核心领域 | 资源 |
 | :--- | :--- | :--- | :--- |
-| ✅ | **Bitcoin Whitepaper** | 共识机制 / 电子现金 | [查看解读](#-bitcoin-whitepaper-解读) |
-| ✅ | **Ethereum Whitepaper** | 智能合约 / 平台化升级 | [查看解读](#-ethereum-whitepaper-解读) |
+| ✅ | **Bitcoin Whitepaper** | 共识机制 / 电子现金 | [查看 PDF](./bitcoin.pdf) |
+| ✅ | **Ethereum Whitepaper** | 智能合约 / 平台化升级 | [查看 PDF](./Ethereum_white_paper-a_next_generation_smart_contract_and_decentralized_application_platform-vitalik-buterin.pdf) |
 | ⏳ | Uniswap V3 Whitepaper | 去中心化交易 (DEX) | 待完成 |
 
 ---
